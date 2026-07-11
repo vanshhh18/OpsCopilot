@@ -58,8 +58,8 @@ backend/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hobbyfi-copilot.git
-cd hobbyfi-copilot/backend
+git clone https://github.com/your-username/Conversational-CRUD-Agent.git
+cd Conversational-CRUD-Agent/backend
 ```
 
 Create and activate a virtual environment:
